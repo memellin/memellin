@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @memellin
-- 👀 I’m interested in programing, learning about creative things, very excited for the world.
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in programing, learning about creative things, very excited for the ti world.
+- 🌱 I’m currently focused in Java-Springboot projects.
 - 💞️ I’m looking to collaborate on EVERYTHING, I'M VERY EXCITED
 - 📫 How to reach me @littlenock on twitter and here.
 
