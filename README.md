@@ -2,6 +2,7 @@
 - 👀 I’m interested in programing, learning about web systems.
 - 🌱 I’m currently focused in Java-Springboot projects.
 - 💞️ I’m looking to collaborate on anything about web projects
+- 👨‍💻 I am studying Information Systems at MULTIVIX.
 
 <!---
 memellin/memellin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
